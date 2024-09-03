@@ -15,3 +15,5 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 7. Install the MesloLS NF font from here: https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
 
 8. Install GNOME Tweaks and enable sub pixel rendering.
+
+9. For Alacritty make sure that the themes directory is cloned. See https://github.com/alacritty/alacritty-theme.

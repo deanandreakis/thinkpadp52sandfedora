@@ -1,0 +1,1 @@
+# thinkpadp52sandfedora

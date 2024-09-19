@@ -10,10 +10,10 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 
 5. Install the correct NVIDIA graphics drivers. This repo has a utility that will guide you thru the process: https://github.com/gridhead/nvidia-auto-installer-for-fedora-linux.
 
-6. Install other apps and utilities as required: Chrome, Alacritty, Zed, Espanso, zsh, oh-my-zsh, neoVim, etc.
+6. Install other apps and utilities as required: Chrome, Alacritty, Espanso, zsh, oh-my-zsh, neoVim, etc.
 
 7. Install the MesloLS NF font from here: https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
 
-8. Install GNOME Tweaks and enable sub pixel rendering.
+8. Install GNOME Tweaks and enable sub pixel rendering and disable the CAPS lock key on the keyuboard.
 
 9. For Alacritty make sure that the themes directory is cloned. See https://github.com/alacritty/alacritty-theme.

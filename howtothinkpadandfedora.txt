@@ -19,3 +19,9 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 9. For Alacritty make sure that the themes directory is cloned. See https://github.com/alacritty/alacritty-theme.
 
 10. Installed the stripe-cli by just downloading and unzipping the executable and installed the firebase-cli via npm.
+
+
+Current Annoyances:
+1. I have to open the laptop lid to resume from suspend state.
+2. GNOME does not remember window positions after resume. This includes windows assignment to virtual workspaces.
+3. The Espanso text expander service needs to be restarted after resume in order to work.

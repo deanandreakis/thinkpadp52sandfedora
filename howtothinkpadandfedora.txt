@@ -20,10 +20,13 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 
 10. Installed the stripe-cli by just downloading and unzipping the executable and installed the firebase-cli via npm.
 
-11. Created a GNOME shell extensions account and installed smart-auto-move extension to remember window and workspaces positions across restarts. Use Firefox to access gnome extensions as chrome flatpak wont work.
+11. Created a GNOME shell extensions account. Use Firefox to access gnome extensions as chrome flatpak wont work.
 
 12. Enabled usb-c charging mode on monitor so it keeps laptop charged without the need for a separate ac adapter.
 
 Current Annoyances:
 1. I have to open the laptop lid to resume from suspend state.
 2. The Espanso text expander service needs to be restarted after resume in order to work.
+3. Window positions across suspend/resume are not saved.
+4. Apps are not re-opened on a reboot.
+

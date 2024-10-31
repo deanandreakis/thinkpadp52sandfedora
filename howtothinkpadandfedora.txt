@@ -29,4 +29,5 @@ Current Annoyances:
 2. The Espanso text expander service needs to be restarted after resume in order to work.
 3. Window positions across suspend/resume are not saved.
 4. Apps are not re-opened on a reboot.
+5. After update to Fedora Workstation 41 none of the built-in apps would launch. I had to edit the /etc/environment file and add GSK_RENDERER=gl.
 

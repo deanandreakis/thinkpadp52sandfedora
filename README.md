@@ -28,6 +28,8 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 
 13. Installed the uv python tool from https://github.com/astral-sh/uv?tab=readme-ov-file using there shell script.
 
+14. I installed Homebrew.
+
 Current Annoyances:
 1. I have to open the laptop lid to resume from suspend state.
 2. The Espanso text expander service needs to be restarted after resume in order to work.

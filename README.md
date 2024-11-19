@@ -30,8 +30,10 @@ I purchased a Lenovo ThinkPad P52s and installed Fedora Workstatopn 40 on it. I 
 
 14. I installed Homebrew.
 
+15. For tmux package manager I had to clone the repo into .tmux again. See https://github.com/tmux-plugins/tpm.
+
 Current Annoyances:
-1. I have to open the laptop lid to resume from suspend state.
+1. I have to open the laptop lid to resume from suspend state. If I leave the monitor on then I can just resume from keypresses.
 2. The Espanso text expander service needs to be restarted after resume in order to work.
 3. Window positions across suspend/resume are not saved.
 4. Apps are not re-opened on a reboot.

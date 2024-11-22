@@ -38,4 +38,5 @@ Current Annoyances:
 3. Window positions across suspend/resume are not saved.
 4. Apps are not re-opened on a reboot.
 5. After update to Fedora Workstation 41 none of the built-in apps would launch. I had to edit the /etc/environment file and add GSK_RENDERER=gl.
-
+6. In KDE after resume from sleep the panel sometimes disappears. Use the following command to restart the plasma shell:
+kquitapp6 plasmashell || kstart plasmashell
